@@ -1,0 +1,32 @@
+[
+  {
+    "name": "John Smith",
+    "jobRole": "Software Developer",
+    "experience": 5,
+    "hourlyRate": 50
+  },
+  {
+    "name": "Emily Davis",
+    "jobRole": "UX Designer",
+    "experience": 3,
+    "hourlyRate": 40
+  },
+  {
+    "name": "David Lee",
+    "jobRole": "Project Manager",
+    "experience": 8,
+    "hourlyRate": 60
+  },
+  {
+    "name": "Rachel Chen",
+    "jobRole": "Business Analyst",
+    "experience": 4,
+    "hourlyRate": 45
+  },
+  {
+    "name": "Michael Johnson",
+    "jobRole": "Data Scientist",
+    "experience": 6,
+    "hourlyRate": 55
+  }
+]

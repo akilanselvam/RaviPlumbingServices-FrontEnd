@@ -1,0 +1,77 @@
+     {showTotal && (
+        <table>
+          <thead>
+            <tr>
+              <th>Description</th>
+              <th>Amount</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Quotation Total</td>
+              <td>{totalQuotation
+
+continue this code
+}</td>
+</tr>
+<tr>
+<td>CGST (9%)</td>
+<td>{cgst}</td>
+</tr>
+<tr>
+<td>SGST (9%)</td>
+<td>{sgst}</td>
+</tr>
+<tr>
+<td>Discount ({discountPercentage}%)</td>
+<td>{discountAmount}</td>
+</tr>
+<tr>
+<td>Total Amount</td>
+<td>{totalAmount}</td>
+</tr>
+</tbody>
+</table>
+)}
+
+
+
+    {/*  <label htmlFor="select-option" className="non-printable">
+        Select an option:
+      </label>
+      <select id="select-option" className="non-printable" value={selectedOption} onChange={handleOptionChange}>
+        <option value="">Select an option</option>
+        <option value="1">Material Quotation</option>
+        <option value="2">Process Quotation</option>
+        <option value="3">Wage Quotation</option>
+        <option value="all">All</option>
+  </select>*/}
+
+
+
+
+
+
+
+   <div className="flex">
+                    <div className="flex-shrink-0">
+                      <div className="flex items-center justify-center w-12 h-12 rounded-md bg-gradient-to-r from-yellow-200 to-yellow-600">
+                        <svg
+                          xmlns="http://www.w3.org/2000/svg"
+                          fill="none"
+                          viewBox="0 0 24 24"
+                          stroke="currentColor"
+                          className="w-7 h-7">
+                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7"></path>
+                        </svg>
+                      </div>
+                    </div>
+                    <div className="ml-4">
+                      <h4 className="text-lg font-semibold leading-6 text-black">Customer Relationship</h4>
+                      <p className="mt-2 text-black">
+                        We believe in building long-lasting relationships with our customers based on trust,
+                        reliability, and communication. We take the time to understand our customers' needs and provide
+                        personalized solutions to meet their specific plumbing requirements.
+                      </p>
+                    </div>
+                  </div>

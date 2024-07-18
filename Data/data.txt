@@ -1,0 +1,9 @@
+Sure, a schema is a blueprint for defining the structure of the data that will be stored in the database. In the case of your MERN application, we will need to create schemas for the entities that we want to store and manipulate, namely:
+
+Human resource: We can define a schema for the human resource entity that includes fields such as name, job role, experience, and hourly rate.
+
+Product: We can define a schema for the product entity that includes fields such as name, description, category, and unit price.
+
+Company: We can define a schema for the company entity that includes fields such as name, address, phone number, and email.
+
+Quotation: We can define a schema for the quotation entity that includes fields such as the total amount, human resources used, products used, and the company from which the products were sourced.

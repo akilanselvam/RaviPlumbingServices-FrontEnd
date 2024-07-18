@@ -1,0 +1,34 @@
+{
+  "companies": [
+    {
+      "name": "Apple Inc.",
+      "address": "1 Apple Park Way, Cupertino, CA 95014",
+      "phoneNumber": "+1 (408) 996-1010",
+      "email": "info@apple.com"
+    },
+    {
+      "name": "Amazon.com, Inc.",
+      "address": "410 Terry Ave. North, Seattle, WA 98109-5210",
+      "phoneNumber": "+1 (206) 266-1000",
+      "email": "info@amazon.com"
+    },
+    {
+      "name": "Microsoft Corporation",
+      "address": "One Microsoft Way, Redmond, WA 98052-6399",
+      "phoneNumber": "+1 (425) 882-8080",
+      "email": "info@microsoft.com"
+    },
+    {
+      "name": "Google LLC",
+      "address": "1600 Amphitheatre Parkway, Mountain View, CA 94043",
+      "phoneNumber": "+1 (650) 253-0000",
+      "email": "info@google.com"
+    },
+    {
+      "name": "Tesla, Inc.",
+      "address": "3500 Deer Creek Road, Palo Alto, CA 94304",
+      "phoneNumber": "+1 (650) 681-5100",
+      "email": "info@tesla.com"
+    }
+  ]
+}
